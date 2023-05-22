@@ -8,8 +8,6 @@ import java.util.GregorianCalendar;
 import java.util.Locale;
 import java.util.TimeZone;
 
-import jdk.vm.ci.meta.Local;
-
 public class LearningDates {
     public static void main(String[] args) {
         simpleDateFormat();
